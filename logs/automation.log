@@ -78,3 +78,21 @@
 14:55:38.611 [main] INFO  testCases.TC_001_New_Registration - entering password
 14:55:38.736 [main] INFO  testCases.TC_001_New_Registration - clicking checkbox privacy
 14:55:38.804 [main] INFO  testCases.TC_001_New_Registration - clicking continue to create registration
+15:49:05.242 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - *****Starting Execution TC_001_New_Registration*******
+15:49:05.308 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - clicking my account
+15:49:07.877 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - clicking register
+15:49:10.205 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - entering firstname
+15:49:10.558 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - entering lastname
+15:49:10.790 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - entering email
+15:49:11.752 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - entering password
+15:49:13.361 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - clicking checkbox privacy
+15:49:13.628 [TestNG-tests-1] INFO  testCases.TC_001_New_Registration - clicking continue to create registration
+15:49:17.141 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - *****Starting Execution TC_001_New_Registration*******
+15:49:17.147 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - clicking my account
+15:49:17.349 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - clicking register
+15:49:18.621 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - entering firstname
+15:49:18.851 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - entering lastname
+15:49:18.985 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - entering email
+15:49:19.123 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - entering password
+15:49:19.273 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - clicking checkbox privacy
+15:49:19.336 [TestNG-tests-2] INFO  testCases.TC_001_New_Registration - clicking continue to create registration

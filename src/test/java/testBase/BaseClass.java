@@ -20,7 +20,7 @@ import org.testng.annotations.Parameters;
 
 public class BaseClass {
 	
-	public static WebDriver driver;
+	public  WebDriver driver;
 	public Logger logger;// for logging
 	public ResourceBundle rb;
 	@BeforeClass
